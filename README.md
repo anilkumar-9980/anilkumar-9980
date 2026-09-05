@@ -1,6 +1,6 @@
 <!-- Profile Header -->
 <h1 align="center">🚀 Hi, I'm ANIL</h1>
-<h3 align="center">💻 Beginner Programming | 🤖 AI Enthusiast | 🐍 Python Lover |I am From INDIA</h3>
+<h3 align="center">💻 Beginner Programming | 🤖 AI Enthusiast | 🐍 Python Lover | 🇮🇳 I am From INDIA</h3>
 
 <!-- Banner -->
 <div align="center">
