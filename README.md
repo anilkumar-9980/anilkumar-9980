@@ -2,6 +2,7 @@
 <h1 align="center">🚀 Hi, I'm ANIL</h1>
 <h3 align="center">💻 Beginner Programming | 🤖 AI Enthusiast | 🐍 Python Lover | 🧡🤍💚 I am From INDIA</h3>
 
+
 <!-- Banner -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=ANIL&fontSize=60&fontAlign=50&fontAlignY=35&animation=fadeIn" />
