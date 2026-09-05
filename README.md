@@ -36,7 +36,7 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4EA94B?style=for-the-badge&logo=PostgreSQL&logoColor=white)
 ![RailWay](https://img.shields.io/badge/RailWay-4EA94B?style=for-the-badge&logo=RailWay&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Render]
+![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white) 
 
 </div>
 
